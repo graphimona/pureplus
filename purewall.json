@@ -2,19 +2,44 @@
 "wallpapers": 
 	[
 		{
-			"author": "Someone",
-			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-			"name": "ShotA"
+			"author": "GraphiMona",
+			"url": "http://sv102.piclect.com/0b6585021/o/15/07/31/polygon1.png",
+			"name": "Polygon1"
 		},
 		{
-			"author": "Someone",
-			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-			"name": "ShotB"
+			"author": "GraphiMona",
+			"url": "http://sv102.piclect.com/2f79e3857/o/15/07/31/polygon2.png",
+			"name": "Polygon2"
 		},
 		{
-			"author": "Someone",
-			"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-			"name": "ShotC"
+			"author": "GraphiMona",
+			"url": "http://sv102.piclect.com/7dc5a5e8b/o/15/07/31/polygon3.png",
+			"name": "Polygon3"
+		},
+			{
+			"author": "GraphiMona",
+			"url": "http://sv102.piclect.com/c3f88f4ea/o/15/07/31/polygon4.png",
+			"name": "Polygon4"
+		},
+		{
+			"author": "GraphiMona",
+			"url": "http://sv102.piclect.com/367000fa5/o/15/07/31/polygon5.png",
+			"name": "Polygon5"
+		},
+		{
+			"author": "GraphiMona",
+			"url": "http://sv102.piclect.com/4b29b40ef/o/15/07/31/polygon6.png",
+			"name": "Polygon6"
+		},
+			{
+			"author": "GraphiMona",
+			"url": "http://sv102.piclect.com/fba4c27a9/o/15/07/31/polygon7.png",
+			"name": "Polygon7"
+		},
+		{
+			"author": "GraphiMona",
+			"url": "http://sv102.piclect.com/b8cc1992d/o/15/07/31/polygon8.png",
+			"name": "Polygon8"
 		}
 	]
 }
