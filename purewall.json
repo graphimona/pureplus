@@ -42,11 +42,6 @@
 			"name": "Polygon8"
 		},
 		{
-			"author": "Graphimona",
-			"url": "http://www.lirent.net/wp-content/uploads/2015/03/android-samsung-galaxy-wallpaper_004.jpg",
-			"name": "GalaxyA5_1"
-		},
-		{
 			"author": "GraphiMona",
 			"url": "http://www.lirent.net/wp-content/uploads/2015/03/android-samsung-galaxy-wallpaper_005.jpg",
 			"name": "GalaxyA5_2"
@@ -56,7 +51,7 @@
 			"url": "http://www.lirent.net/wp-content/uploads/2015/03/android-samsung-galaxy-wallpaper_006.jpg",
 			"name": "GalaxyA5_3"
 		},
-			{
+		{
 			"author": "GraphiMona",
 			"url": "http://www.lirent.net/wp-content/uploads/2015/03/android-samsung-galaxy-wallpaper_007.jpg",
 			"name": "GalaxyA5_4"
@@ -71,7 +66,7 @@
 			"url": "http://www.lirent.net/wp-content/uploads/2015/03/galaxy-A5_wallpaper_003.jpg",
 			"name": "GalaxyA5_6"
 		},
-			{
+		{
 			"author": "GraphiMona",
 			"url": "http://www.lirent.net/wp-content/uploads/2015/03/galaxy-A5_default_wallpaper.png",
 			"name": "GalaxyA5_7"
@@ -86,7 +81,7 @@
 			"url": "http://www.lirent.net/wp-content/uploads/2015/03/wallpaper_008.jpg"
 			"name": "GalaxyA5_9"
 		},
-			{
+		{
 			"author": "GraphiMona",
 			"url": "http://www.lirent.net/wp-content/uploads/2014/11/Android-Lollipop-wallpaper-11.jpg",
 			"name": "Trend_1"
@@ -96,7 +91,5 @@
 			"url": "http://www.lirent.net/wp-content/uploads/2014/11/Android-Lollipop-wallpaper-800x600.jpg"
 			"name": "Trend_2"
 		}
-		
-		
 	]
 }
